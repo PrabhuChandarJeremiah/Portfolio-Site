@@ -69,9 +69,9 @@ function Resume() {
             </p>
           </Col>
         </Row>
-        <Row style={{ padding: "1em 0 30em 0" , justifyContent: "center", position: "relative" }}>
+        <Row style={{ padding: "0.5em 0 30em 0" , justifyContent: "center", position: "relative" }}>
           <Button variant="primary" href={pdf} target="_blank">
-            <i className="fas fa-download">&nbsp;</i>Download CV
+            <i className="fas fa-download">&nbsp;</i>Download Professional CV
           </Button>
         </Row>
       </Container>

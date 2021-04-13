@@ -33,7 +33,7 @@ function Home() {
                   passionate about code and art.   <br />
                   I work extensively on   
                 <i>
-                  <b className="purple"> UI<span className="wave">🖌️</span>UX Design</b>
+                  <b className="purple"> Digital Design</b>
                 </i>
                   &nbsp; and &nbsp;
                 <i>

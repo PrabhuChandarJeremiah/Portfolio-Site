@@ -7,8 +7,12 @@ function Type() {
       options={{
         strings: [
           "Full-Stack Developer",
+          "WordPress Developer",
           "Digital Designer",
-          "Audio Programmer",
+          "UI/UX Designer",
+          "Logo & Brochure Designs",
+          "Domain Name & Hosting",
+          "Facebook™ & Google™ ads"
         ],
         autoStart: true,
         loop: true,
